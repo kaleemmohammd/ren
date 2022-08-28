@@ -1,1 +1,2 @@
-priny("helo")
+print("helo")
+print("hi rayyan")
